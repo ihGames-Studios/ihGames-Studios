@@ -11,7 +11,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gamemaker" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://camo.githubusercontent.com/0283508bb55a12f19d7ef5008de7df16a5bb6fe87eae518cf79c68776e9b8b2a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f342f34622f47616d654d616b65725f4c6f676f2e737667)">
+  <img align="center" alt="Gamemaker" height="30" width="40" src="[https://camo.githubusercontent.com/0283508bb55a12f19d7ef5008de7df16a5bb6fe87eae518cf79c68776e9b8b2a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f342f34622f47616d654d616b65725f4c6f676f2e737667]">
 </div>
  
  <br>
